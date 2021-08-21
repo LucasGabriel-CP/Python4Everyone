@@ -59,8 +59,8 @@ The unit tests for this project are in `test_module.py`.
 
 ### Development
 
-Write your code in `budget.py`. For development, you can use `main.py` to test your `Category` class. Click the "run" button and `main.py` will run.
+Code wrote in `budget.py`. You can use `main.py` to test the code.
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+FreeCodeCamp imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
